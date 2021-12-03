@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAccount">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAKAEAAAgBAIAAAIgAIABAAAAAAACAA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSocialAccount">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAIAEAAAAAACAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SocialAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDefaultAccount">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAEAAAAAAAAAAAAggAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVipAccount">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAEAQAAAAAIAAAgQAAAAAAAACAAAA=</HashCode>
+      <FileName>VipAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CException">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
